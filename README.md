@@ -5,6 +5,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git remote add origin git@github.com:yileng91/git-test2.git
+https://github.com/yileng91/git-test.git
 git push -u origin master
 
 …or push an existing repository from the command line
